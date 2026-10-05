@@ -8,6 +8,15 @@ Ejercicios de la materia Procesamiento de Imágenes de la Tecnicatura en Anális
 |----------|-----------|
 | [Ejercicio1_Segmentacion_Arroces.ipynb](notebooks/Ejercicio1_Segmentacion_Arroces.ipynb) | Introducción al procesamiento de imágenes: segmentación de granos de arroz (canales de color, binarización, operaciones morfológicas básicas). |
 | [Ejercicio2_Segmentacion_Color.ipynb](notebooks/Ejercicio2_Segmentacion_Color.ipynb) | Segmentación por color: análisis de imágenes en BGR/HSV, extracción de regiones y visualización con OpenCV. |
+| [IMG01_RiceSegmentation_Resuelto_Claramunt.ipynb](notebooks/IMG01_RiceSegmentation_Resuelto_Claramunt.ipynb) | IMG01 resuelto: segmentación de granos de arroz. |
+| [clase3/](notebooks/clase3/) | Material de la clase 3 (fundamentos de imagen). |
+| [clase4/](notebooks/clase4/) | Material de la clase 4. |
+| [clase5/](notebooks/clase5/) | Material de la clase 5. |
+| [clase7/](notebooks/clase7/) | Material de la clase 7. |
+
+### `datos/`
+
+Imágenes locales usadas por los ejercicios y las clases.
 
 Todos los notebooks se publican ejecutados, con sus salidas y gráficos, y se pueden leer directamente en GitHub.
 
