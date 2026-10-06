@@ -1,6 +1,6 @@
-# Procesamiento de Imágenes
+﻿# Procesamiento de Imágenes
 
-Ejercicios de la materia Procesamiento de Imágenes de la Tecnicatura en Análisis de Datos e Inteligencia Artificial, con OpenCV y NumPy.
+Ejercicios de la materia Procesamiento de Imágenes de la Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial, con OpenCV y NumPy.
 
 ## Notebooks
 
